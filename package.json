@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-dictator",
+  "version": "1.0.0",
+  "description": "Default ESLint config for projects.",
+  "main": ".eslintrc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Jason Merino",
+  "license": "MIT"
+}
