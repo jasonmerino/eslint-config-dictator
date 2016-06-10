@@ -11,5 +11,11 @@
     "eslintconfig"
   ],
   "author": "Jason Merino",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.12.0",
+    "eslint-plugin-react": "^5.1.1"
+  }
 }
